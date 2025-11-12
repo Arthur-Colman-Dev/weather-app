@@ -24,7 +24,6 @@ Experimente escrever locais que você já visitou e locais que gostaria de visit
 
 ## 🤝 Colaboradores
 
-***REMOVED***
 Agradecemos às seguintes pessoas que contribuíram para este projeto
 ***REMOVED***
 
