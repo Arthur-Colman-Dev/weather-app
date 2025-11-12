@@ -1,6 +1,7 @@
 # Weather App
 
 > Projeto React que retorna para o usuário um gráfico da temperatura nos próximos dias do local desejado.
+
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
@@ -23,7 +24,8 @@ Experimente escrever locais que você já visitou e locais que gostaria de visit
 
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Agradecemos às seguintes pessoas que contribuíram para este projeto
+***REMOVED***
 
 <table>
   <tr>
